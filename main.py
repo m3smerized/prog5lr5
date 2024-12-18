@@ -1,4 +1,3 @@
-# лаба 5
 import time
 from collections import namedtuple
 
